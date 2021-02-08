@@ -1,0 +1,1 @@
+# product_CRUD_using_django_generic
